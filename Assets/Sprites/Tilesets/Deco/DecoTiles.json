@@ -160,12 +160,12 @@
 	"CastleWater": {
 	  "Day": {
 		"SMB1": { "source": "CastleWaterDeco.png", "rect": [0.0, 0.0, 80.0, 32.0] },
-		"SMBLL": { "source": "CastleWaterDecoLL.png", "rect": [0.0, 0.0, 80.0, 32.0] },
+		"SMBLL": { "source": "CastleWaterLLDeco.png", "rect": [0.0, 0.0, 80.0, 32.0] },
 		"SMBANN": { "source": "CastleWaterDecoANN.png", "rect": [0.0, 0.0, 80.0, 32.0] }
 	  },
 	  "Night": {
 		"SMB1": { "source": "CastleWaterDeco.png", "rect": [0.0, 32.0, 80.0, 32.0] },
-		"SMBLL": { "source": "CastleWaterDecoLL.png", "rect": [0.0, 32.0, 80.0, 32.0] },
+		"SMBLL": { "source": "CastleWaterLLDeco.png", "rect": [0.0, 32.0, 80.0, 32.0] },
 		"SMBANN": { "source": "CastleWaterDecoANN.png", "rect": [0.0, 32.0, 80.0, 32.0] }
 	  }
 	},
